@@ -8,6 +8,22 @@ In addition to my technical skills, I am a strong communicator and collaborator,
 
 Overall, I am a dedicated, detail-oriented software engineer with a passion for using technology to create meaningful, impactful solutions. I am excited to continue developing my skills and contributing to the success of innovative projects in the field of software engineering.
 
+#### 👨🏻‍💻 **About Me**
+- 🤔   Exploring new technologies and developing software solutions and quick hacks.
+- 🌱   Learning more about Fullstack Software Engineer, Systems Design and Artificial Intelligence.
+- 📫   How to reach me: pradeeparul2@gmail.com
+
+#### 🛠 Tech Stack
+- 💻   Python | PHP | Django | Flask | Wordpress
+- 🌐   HTML | CSS | JavaScript | Bootstrap | Node.js | Reactjs
+- 🛢   MySQL | MongoDB | Postgres | DynamoDB
+- 🔧   Git | Gitlab | Bitbucket
+- 🖥   UI / UX | Figma | Canva
+- 🧑‍🎨   Adobe Photoshop | Adobe Illustrator | Adobe aftereffect
+- 🌐   AWS | Azure
+
+
+
 <!--
 **Pradeeparul2/Pradeeparul2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,4 +37,15 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+![Pradeeparul2's github stats](https://github-readme-stats.vercel.app/api?username=pradeeparul2)
+
+#### 🤝🏻 Connect with Me
+
+<div align="center">
+
+[![Static Badge](https://img.shields.io/badge/:badgeContent?logo=linkedin&label=LinkedIn&link=www.linkedin.com%2Fin%2Fpradeeparul2)](https://img.shields.io/badge/:badgeContent?logo=linkedin&label=LinkedIn&link=www.linkedin.com%2Fin%2Fpradeeparul2
+)
+
+</div>
 -->
