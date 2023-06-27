@@ -22,8 +22,7 @@ Overall, I am a dedicated, detail-oriented software engineer with a passion for 
 - 🧑‍🎨   Adobe Photoshop | Adobe Illustrator | Adobe aftereffect
 - 🌐   AWS | Azure
 
-
-
+![Pradeeparul2's github stats](https://github-readme-stats.vercel.app/api?username=Pradeeparul2)
 <!--
 **Pradeeparul2/Pradeeparul2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
